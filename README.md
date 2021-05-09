@@ -35,7 +35,6 @@ or the backend. ✨
 [![facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&labelColor=1877F2&logo=facebook&logoColor=white&link=https://web.facebook.com/fater04/)](https://web.facebook.com/fater04/)
 [![instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/fater_04/)](https://www.instagram.com/fater_04/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fater04)](https://github.com/fater04/github-readme-stats)<br/>
 [![fater04's stats](https://github-readme-stats.vercel.app/api/wakatime?username=@fater04)](https://github.com/fater04/github-readme-stats)<br/>
-![fater04's github](https://github-readme-stats.vercel.app/api?username=fater04&show_icons=true&hide_border=true)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fater04)](https://github.com/fater04/github-readme-stats)![fater04's github](https://github-readme-stats.vercel.app/api?username=fater04&show_icons=true&hide_border=true)<br/>
 De [fater04](https://github.com/fater04)

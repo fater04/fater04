@@ -1,40 +1,108 @@
-### 👋 Hello, I'm [Dorvelus Wilker(fater)](https://www.github.com/fater04)!
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E86AB&center=true&vCenter=true&width=435&lines=Bonjour+%F0%9F%91%8B+Je+suis+Dorvelus+Wilker;D%C3%A9veloppeur+Full-Stack;Co-fondateur+de+Bios+Haiti;Bas%C3%A9+%C3%A0+Port-au-Prince" alt="Typing SVG" />
+</div>
 
-I am a Full-stack  Web Developer.I´m based in Port-au-prince,Haiti.
+---
 
-since 2016, I have been working as a web developer, 
-I am the co-founder of bios a company that provides 
-IT services (web development, mobile, etc.). 
-Do not hesitate to visit us on our website [bioshaiti.com](https://www.bioshaiti.com).
-I participated in the development of a lot of web 
-and mobile applications, whether in the front-end 
-or the backend. ✨
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dorvelus%20Wilker&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Co-founder%20Bios%20Haiti&descAlignY=55&descAlign=center" />
+</div>
 
-### Technical Skills
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"> <br />
-<img src="https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=php&logoColor=white" >
-<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" >
-<br/>
-<img src="https://img.shields.io/badge/-Wordpress-21759B?style=flat&logo=wordpress&logoColor=white" >
-<br />
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" >
-<img src="https://img.shields.io/badge/-AngularJS-E23237?style=flat&logo=angularjs&logoColor=white" >
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white" >
-<br/>
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" >
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" >
-<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" >
-<img src="https://img.shields.io/badge/-Microsoft SQL Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" >
-<br />
+## 🚀 À propos de moi
 
-### Find me elsewhere 🌎
+```javascript
+const dorvelus = {
+  nom: "Dorvelus Wilker (fater)",
+  localisation: "Port-au-Prince, Haïti",
+  experience: "8+ années",
+  entreprise: "Co-fondateur de Bios Haiti",
+  site: "https://www.bioshaiti.com",
+  passion: ["Développement Web", "Innovation", "Leadership"],
+  disponibilite: "Ouvert aux nouvelles opportunités"
+};
+```
 
-[![Mail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:wilkerdorvelus@yahoo.com)](mailto:wilkerdorvelus@yahoo.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilker-dorvelus-759150158/)](https://www.linkedin.com/in/wilker-dorvelus-759150158/) 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fater_04)](https://twitter.com/fater_04)
-[![facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&labelColor=1877F2&logo=facebook&logoColor=white&link=https://web.facebook.com/fater04/)](https://web.facebook.com/fater04/)
-[![instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/fater_04/)](https://www.instagram.com/fater_04/)
+## 🛠️ Stack Technique
 
-[![fater04's stats](https://github-readme-stats.vercel.app/api/wakatime?username=@fater04)](https://github.com/fater04/github-readme-stats)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fater04)](https://github.com/fater04/github-readme-stats)![fater04's github](https://github-readme-stats.vercel.app/api?username=fater04&show_icons=true&hide_border=true)<br/>
-De [fater04](https://github.com/fater04)
+### Frontend
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</div>
+
+### Backend
+<div align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</div>
+
+### Bases de données
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</div>
+
+## �� Statistiques GitHub
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fater04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fater04&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fater04&theme=tokyonight&hide_border=true" />
+</div>
+
+## �� Bios Haiti
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E86AB&center=true&vCenter=true&width=500&lines=Co-fondateur+de+Bios+Haiti;Services+IT+complets;D%C3%A9veloppement+Web+%26+Mobile;Innovation+depuis+2016" alt="Bios Haiti" />
+</div>
+
+> **Bios Haiti** - Votre partenaire technologique de confiance pour tous vos besoins en développement web et mobile.
+
+🌐 **[Visitez notre site](https://www.bioshaiti.com)**
+
+## 📈 Activité de codage
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fater04&theme=tokyonight&hide_border=true&custom_title=Activit%C3%A9%20de%20codage" />
+</div>
+
+## 🌐 Me contacter
+
+<div align="center">
+  <a href="mailto:wilkerdorvelus@yahoo.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/wilker-dorvelus-759150158/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/fater_04">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://web.facebook.com/fater04/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/fater_04/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E86AB&center=true&vCenter=true&width=400&lines=Merci+de+visiter+mon+profil+%F0%9F%98%8A;N'h%C3%A9sitez+pas+%C3%A0+me+contacter+!" alt="Thank you" />
+</div>

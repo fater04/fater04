@@ -6,7 +6,13 @@
 
 ## 🚀 About Me
 
-Software Analyst with 11+ years of experience (since 2015) in designing, developing and maintaining Web, Mobile and SaaS applications. Specialized in PHP, Laravel, JavaScript, WordPress, Java, REST API development and relational database design.
+Software Analyst with 11+ years of experience (since 2015) in designing, developing and maintaining Web, Mobile and SaaS applications. Specialized in PHP, Laravel, JavaScript, WordPress, Java, REST API development and relational database design. I've worked on several digital platforms including commercial management solutions, electronic payment systems and business applications, while managing Windows Server infrastructure and enterprise networks.
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=fater04&style=for-the-badge&color=2196F3&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/fater04?style=for-the-badge&logo=github&color=2196F3&label=Followers" />
+  <img src="https://img.shields.io/github/stars/fater04?style=for-the-badge&logo=github&color=2196F3&label=Stars" />
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -53,31 +59,23 @@ Software Analyst with 11+ years of experience (since 2015) in designing, develop
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fater04&style=for-the-badge&color=2196F3&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/fater04?style=for-the-badge&logo=github&color=2196F3&label=Followers" />
-  <img src="https://img.shields.io/github/stars/fater04?style=for-the-badge&logo=github&color=2196F3&label=Stars" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=fater04&show_icons=true&theme=blue-white&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fater04&layout=compact&theme=blue-white&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=fater04&show_icons=true&theme=blue-white&hide_border=false&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fater04&layout=compact&theme=blue-white&hide_border=false&langs_count=8" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=fater04&theme=blue-white&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=fater04&theme=blue-white&hide_border=false&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fater04&theme=flat&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fater04&theme=flat&no-frame=false&row=2&column=4&margin-w=15&margin-h=15" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fater04&theme=github-light&hide_border=false&custom_title=Coding+Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fater04&theme=github-light&hide_border=true&custom_title=Coding+Activity" />
 </div>
 
 ---

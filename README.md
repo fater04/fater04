@@ -1,113 +1,146 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Bonjour+%F0%9F%91%8B+Je+suis+Dorvelus+Wilker;D%C3%A9veloppeur+Full-Stack;Co-fondateur+de+Bios+Haiti;Bas%C3%A9+%C3%A0+Port-au-Prince" alt="Typing SVG" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:1976D2&height=200&section=header&text=Dorvelus%20Wilker&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Co-founder%20Bios%20Haiti&descAlignY=55&descAlign=center" />
-</div>
-
-## 🚀 À propos de moi
-
-```javascript
-const dorvelus = {
-  nom: "Dorvelus Wilker (fater)",
-  localisation: "Port-au-Prince, Haïti",
-  experience: "8+ années",
-  entreprise: "Co-fondateur de Bios Haiti",
-  site: "https://www.bioshaiti.com",
-  passion: ["Développement Web", "Innovation", "Leadership"],
-  disponibilite: "Ouvert aux nouvelles opportunités"
-};
+```terminal
+  ██████╗  ██████╗ ██████╗ ██╗   ██╗███████╗██╗     ██╗   ██╗███████╗
+  ██╔══██╗██╔═══██╗██╔══██╗██║   ██║██╔════╝██║     ██║   ██║██╔════╝
+  ██║  ██║██║   ██║██████╔╝██║   ██║█████╗  ██║     ██║   ██║███████╗
+  ██║  ██║██║   ██║██╔══██╗╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║╚════██║
+  ██████╔╝╚██████╔╝██║  ██║ ╚████╔╝ ███████╗███████╗╚██████╔╝███████║
+  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚══════╝
 ```
 
-## 🛠️ Stack Technique
-
-### Frontend
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=%3E+Initializing+%22fater%22.exe...;%3E+Role%3A+Software+Analyst;%3E+Employer%3A+Founded+Tekdor;%3E+Location%3A+Port-au-Prince%2C+Haiti;%3E+Status%3A+Open+to+work" alt="Terminal Typing SVG" />
 </div>
 
-### Backend
-<div align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-</div>
-
-### Bases de données
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</div>
-
-## 📊 Statistiques de Codage
-
-### GitHub Stats
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fater04&show_icons=true&theme=blue-green&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fater04&layout=compact&theme=blue-green&hide_border=true" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fater04&theme=blue-green&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2" />
 </div>
 
-### WakaTime Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@fater04&theme=blue-green&hide_border=true&layout=compact" />
-</div>
-
-### Activité de Codage
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fater04&theme=blue-green&hide_border=true&custom_title=Activit%C3%A9%20de%20codage" />
-</div>
-
-## �� Bios Haiti
+<h1 align="center">👨‍💻 $ whoami</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Co-fondateur+de+Bios+Haiti;Services+IT+complets;D%C3%A9veloppement+Web+%26+Mobile;Innovation+depuis+2016" alt="Bios Haiti" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fater04&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fater04&layout=compact&theme=radical&hide_border=true" width="49%" />
 </div>
 
-> **Bios Haiti** - Votre partenaire technologique de confiance pour tous vos besoins en développement web et mobile.
+<br/>
 
-🌐 **[Visitez notre site](https://www.bioshaiti.com)**
+```terminal
+$ cat about.txt
 
-## 🌐 Me contacter
+[ Name        ]  Dorvelus Wilker (fater)
+[ Location    ]  Port-au-Prince, Haiti
+[ Experience  ]  11+ years of coding (since 2015)
+[ Employer    ]  Founder of Tekdor
+[ Titles      ]  Software Analyst | IT Administrator | Full-Stack Developer
+[ Speak       ]  PHP, Laravel, JavaScript, WordPress, Java, REST APIs, SQL
+[ Passions    ]  Cybersecurity, Open Source, DevOps, Building cool stuff
+[ Availability]  OPEN_FOR_NEW_OPPORTUNITIES == true
+```
+
+<br/>
+
+<h1 align="center">🛠️ $ sudo apt install skills</h1>
+
+<p align="center">
+  <b>Programming Languages</b>
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <b>Frameworks & CMS</b>
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <b>Databases</b>
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <b>Systems & Infrastructure</b>
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Active%20Directory-0F4C81?style=for-the-badge&logo=windows&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Hyper--V-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/FreePBX-A100FF?style=for-the-badge&logo=iso&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <b>Dev Tools</b>
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+</p>
+
+<br/>
+
+<h1 align="center">📊 $ system_stats --live</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fater04&style=for-the-badge&color=00FF41&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/fater04?style=for-the-badge&logo=github&color=00FF41&label=Followers" />
+  <img src="https://img.shields.io/github/stars/fater04?style=for-the-badge&logo=github&color=00FF41&label=Stars" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fater04&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fater04&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fater04&theme=redical&hide_border=true&custom_title=Activity%20Graph&bg_color=0d1117&color=00FF41&line=00FF41&point=FFFFFF" />
+</p>
+
+<br/>
+
+<h1 align="center">🏆 $ cat profile.log</h1>
 
 <div align="center">
-  <a href="mailto:wilkerdorvelus@yahoo.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/wilker-dorvelus-759150158/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/fater_04">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://web.facebook.com/fater04/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/fater_04/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <img src="https://github-readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=%3E+Initialized...+1988;%3E+Root+access+granted;%3E+Welcome+to+my+terminal" alt="Terminal Footer" />
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=ghost&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=matrix&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=codechef&logoColor=FFFFFF" />
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:1976D2&height=100&section=footer" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=400&lines=Merci+de+visiter+mon+profil+%F0%9F%98%8A;N'h%C3%A9sitez+pas+%C3%A0+me+contacter+!" alt="Thank you" />
-</div>
+<p align="center">
+  <sub>Built with ❤️, ☕ and a lot of `console.log("debug")` — fater04 @ 2026</sub>
+</p>
